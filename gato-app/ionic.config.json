@@ -1,0 +1,7 @@
+{
+  "name": "gato-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
